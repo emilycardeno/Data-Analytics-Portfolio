@@ -4,7 +4,7 @@ Welcome to my Data Analytics portfolio. This repository showcases my projects, s
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 1. [About Me](#about-me)
 2. [Skills](#skills)
@@ -16,7 +16,7 @@ Welcome to my Data Analytics portfolio. This repository showcases my projects, s
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I’m Emily, a Data Analyst with a technical foundation in IT and hands‑on experience using Excel, SQL, and Power BI. I’ve worked with large datasets, performed data cleaning, created reports, analyzed trends, and supported decision‑making through clear, accurate insights.
 
@@ -24,7 +24,7 @@ I’m particularly interested in the intersection of data analytics and AI, wher
 
 ---
 
-## 🛠 Skills
+## Skills
 
 - Data Cleaning & Preparation  
 - Exploratory Data Analysis (EDA)  
@@ -36,10 +36,17 @@ I’m particularly interested in the intersection of data analytics and AI, wher
 
 ---
 
-## 📁 Projects
+## Projects
 
-### 🔹 **Project 1: [Project Title](projects/project1.ipynb)**  
-Short description of what the project does and what skills it demonstrates.
+### 🔹 **Project 1: Loan Default Risk Prediction Model (projects/project1.ipynb)**  
+Business Case
+In the banking sector, accurately predicting whether a loan will default or be repaid is essential for effective risk management. When financial institutions issue loans, they must ensure that the funds can be recovered. Incorrectly approving high‑risk loans or rejecting applicants who would have successfully repaid can lead to significant financial and operational consequences.
+Being able to reliably predict loan outcomes allows institutions to:
+- Improve profitability by reducing the number of defaulted loans
+- Enhance customer experience through faster, more informed approval decisions
+- Minimize risk by identifying high‑risk borrowers early and taking appropriate action
+In this project, the objective is to use a loan dataset to predict whether a loan will be approved or default. The dataset includes features such as age, education level, income, loan amount, interest rate, and credit score factors commonly used to assess borrower reliability.
+
 
 ### 🔹 **Project 2: [Project Title](projects/project2.ipynb)**  
 Short description.
@@ -49,20 +56,20 @@ Short description.
 
 ---
 
-## 📓 Skill-Based Notebooks
+## Skill-Based Notebooks
 
-### 🧹 Data Cleaning  
+### Data Cleaning  
 - [Pandas Data Cleaning](notebooks/skills/pandas_cleaning.ipynb)
 
-### 🧮 SQL Practice  
+### SQL Practice  
 - [SQL Joins & Aggregations](notebooks/skills/sql_joins.ipynb)
 
-### 📊 Visualization  
+### Visualization  
 - [Matplotlib & Seaborn Basics](notebooks/skills/visualization_basics.ipynb)
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - Python  
 - SQL  
@@ -73,7 +80,7 @@ Short description.
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 - **BS in Computer Science** — De La Salle University  
 - **Certificates:**  
@@ -83,7 +90,7 @@ Short description.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to connect or reach out:
 
