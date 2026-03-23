@@ -45,6 +45,7 @@ Being able to reliably predict loan outcomes allows institutions to:
 - Improve profitability by reducing the number of defaulted loans
 - Enhance customer experience through faster, more informed approval decisions
 - Minimize risk by identifying high‑risk borrowers early and taking appropriate action
+
 In this project, the objective is to use a loan dataset to predict whether a loan will be approved or default. The dataset includes features such as age, education level, income, loan amount, interest rate, and credit score factors commonly used to assess borrower reliability.
 
 
