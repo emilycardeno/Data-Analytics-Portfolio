@@ -38,7 +38,7 @@ I’m particularly interested in the intersection of data analytics and AI, wher
 
 ## Projects
 
-### 🔹 **Project 1: [Loan Default Risk Prediction Model](projects/project1.ipynb)**  
+### 🔹 **Project 1: [Loan Default Risk Prediction Model](main/LoanPredictor.ipynb)**  
 Business Case
 In the banking sector, accurately predicting whether a loan will default or be repaid is essential for effective risk management. When financial institutions issue loans, they must ensure that the funds can be recovered. Incorrectly approving high‑risk loans or rejecting applicants who would have successfully repaid can lead to significant financial and operational consequences.
 Being able to reliably predict loan outcomes allows institutions to:
