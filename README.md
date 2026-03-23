@@ -49,12 +49,6 @@ Being able to reliably predict loan outcomes allows institutions to:
 In this project, the objective is to use a loan dataset to predict whether a loan will be approved or default. The dataset includes features such as age, education level, income, loan amount, interest rate, and credit score factors commonly used to assess borrower reliability.
 
 
-### 🔹 **Project 2: [Project Title](projects/project2.ipynb)**  
-Short description.
-
-### 🔹 **Project 3: [Project Title](projects/project3.ipynb)**  
-Short description.
-
 ---
 
 ## Skill-Based Notebooks
