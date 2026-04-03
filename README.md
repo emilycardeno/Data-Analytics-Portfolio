@@ -56,7 +56,7 @@ The main objective of this project is to uncover which daily habits are most clo
 
 The Student Wellness & Engagement Tracker was recommended to be used by the department with data coming from bi annual surveys. It is implemented via MS Exel. Check out the presentation of the whole process and the MS Exel file.
 
-
+<img src="./screenshots/student wellness dashboard.png" alt="Project Dashboard" width="600">
 
 
 
