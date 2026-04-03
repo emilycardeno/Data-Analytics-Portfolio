@@ -48,6 +48,17 @@ Being able to reliably predict loan outcomes allows institutions to:
 
 In this project, the objective is to use a loan dataset to predict whether a loan will be approved or default. The dataset includes features such as age, education level, income, loan amount, interest rate, and credit score factors commonly used to assess borrower reliability.
 
+### 🔹 **Project 2: [Student Wellness EDA and Product Recommendation](projects/project2.ipynb)**  
+Business Case
+The university has a dedicated Student Services Department offering academic support, career advice, mental health resources, and wellness programmes. Recently, the department has been looking at ways to better understand student habits and needs using data, with the goal of improving service uptake and ensuring more students are able to access the help they need to succeed.
+
+The main objective of this project is to uncover which daily habits are most closely linked to academic difficulties and mental health struggles using a data-informed approach and to recommend a product. 
+
+The Student Wellness & Engagement Tracker was recommended to be used by the department with data coming from bi annual surveys. It is implemented via MS Exel. Check out the presentation of the whole process and the MS Exel file.
+
+
+
+
 
 ---
 
@@ -77,11 +88,10 @@ In this project, the objective is to use a loan dataset to predict whether a loa
 
 ## Education & Certifications
 
-- **BS in Computer Science** — De La Salle University  
+- **BS in Computer Science** — De La Salle University
+- **Diploma AI-Powered Data Analytics** — Mission Ready  
 - **Certificates:**  
-  - Data Analytics  
-  - Python  
-  - MS Excel for Data Visualization  
+  - MS Excel for Data Visualisation and Business Intelligence  
 
 ---
 
