@@ -39,10 +39,9 @@ I’m particularly interested in the intersection of data analytics and AI, wher
 
 ## Internship Experience
 
-### 🔹 **[Business Metrics Data Dictionary](metrics-dictionary-README.md)** 
+### 🔹 **[Business Metrics Data Dictionary](business-metrics-dictionary-README.md)** 
 
-A metrics dictionary defining 20–30 key business metrics, built during a Data Analyst internship at [COUNT](https://www.getcount.com) from a full dashboard audit and stakeholder interviews across 8–10 cross-functional teams. Used to establish a shared definition of "what a metric means" across the organisation, and to inform a scalable dashboard framework and prioritised analytics roadmap.
-
+A single source of truth for business metrics on the COUNT platform, built during a Data Analyst internship at [COUNT](https://www.getcount.com). Defines 60+ metrics across ten business domains, each mapped to its exact underlying data source, so that dashboards, reports, and the AI engine all calculate the same metric the same way, regardless of how a user asks for it.
 
 ---
 
