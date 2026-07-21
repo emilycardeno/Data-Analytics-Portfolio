@@ -21,14 +21,14 @@ A metrics dictionary defining 20–30 key business metrics, built during a Data 
 
 ## Project Overview
 
-Before this project, different teams referred to the same metric name with different underlying calculations — or used different names for the same thing. That ambiguity made cross-team reporting unreliable and slowed down dashboard development, since every new dashboard request started with a definitional argument rather than a build.
+Before this project, clients and different teams referred to the same metric name with different underlying calculations or used different names for the same thing. That ambiguity made cross-team reporting unreliable and slowed down dashboard development, since every new dashboard request started with a definitional argument rather than a build.
 
-This project fixed that at the source: a single, agreed-upon dictionary of business metrics, each with an explicit definition, calculation logic, data source, and owning team — built directly from what stakeholders said they needed, not assumed from the data alone.
+This project fixed that at the source: a single, agreed-upon dictionary of business metrics, each with an explicit definition, calculation logic, data source, and owning team - built directly from what stakeholders said they needed, not assumed from the data alone.
 
 ## Process
 
 1. **Dashboard audit** — reviewed existing dashboards and reports across the organisation to catalogue every metric currently in use, including duplicates and near-duplicates with inconsistent definitions
-2. **Stakeholder interviews** — structured interviews across 8–10 cross-functional teams to understand what each team actually needed to track, how they currently defined it, and where gaps existed
+2. **Stakeholder interviews** — structured interviews across clients to understand what the tool actually needed to track, how they currently defined it, and where gaps existed
 3. **Metric consolidation** — merged overlapping/conflicting metric definitions into a single canonical version per metric, flagging disagreements for stakeholder sign-off rather than resolving them unilaterally
 4. **Documentation** — wrote each metric into a standard dictionary format (below), reviewed with the relevant team owner before finalizing
 5. **Roadmap output** — used gaps surfaced during interviews to prioritise a forward analytics roadmap
