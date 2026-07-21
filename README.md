@@ -8,11 +8,12 @@ Welcome to my Data Analytics portfolio. This repository showcases my projects, s
 
 1. [About Me](#about-me)
 2. [Skills](#skills)
-3. [Projects](#projects)
-4. [Skill-Based Notebooks](#skill-based-notebooks)
-5. [Tools & Technologies](#tools--technologies)
-6. [Education & Certifications](#education--certifications)
-7. [Contact](#contact)
+3. [Internship Experience](#internship)
+4. [Projects](#projects)
+5. [Skill-Based Notebooks](#skill-based-notebooks)
+6. [Tools & Technologies](#tools--technologies)
+7. [Education & Certifications](#education--certifications)
+8. [Contact](#contact)
 
 ---
 
@@ -34,6 +35,13 @@ I’m particularly interested in the intersection of data analytics and AI, wher
 - Python for Data Analysis (Pandas, NumPy, Matplotlib)  
 - Data Storytelling & Insight Communication  
 
+---
+
+## Internship Experience
+
+### 🔹 **[Business Metrics Data Dictionary]**  
+
+A metrics dictionary defining 20–30 key business metrics, built during a Data Analyst internship at [COUNT](https://www.getcount.com) from a full dashboard audit and stakeholder interviews across 8–10 cross-functional teams. Used to establish a shared definition of "what a metric means" across the organisation, and to inform a scalable dashboard framework and prioritised analytics roadmap.
 ---
 
 ## Projects
