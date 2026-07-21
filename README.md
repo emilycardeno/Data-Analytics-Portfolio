@@ -8,7 +8,7 @@ Welcome to my Data Analytics portfolio. This repository showcases my projects, s
 
 1. [About Me](#about-me)
 2. [Skills](#skills)
-3. [Internship Experience](#internship)
+3. [Internship Experience](#internship-experience)
 4. [Projects](#projects)
 5. [Skill-Based Notebooks](#skill-based-notebooks)
 6. [Tools & Technologies](#tools--technologies)
@@ -39,7 +39,7 @@ I’m particularly interested in the intersection of data analytics and AI, wher
 
 ## Internship Experience
 
-### 🔹 **[Business Metrics Data Dictionary](metrics-dictionary-README)** 
+### 🔹 **[Business Metrics Data Dictionary](metrics-dictionary-README.md)** 
 
 A metrics dictionary defining 20–30 key business metrics, built during a Data Analyst internship at [COUNT](https://www.getcount.com) from a full dashboard audit and stakeholder interviews across 8–10 cross-functional teams. Used to establish a shared definition of "what a metric means" across the organisation, and to inform a scalable dashboard framework and prioritised analytics roadmap.
 
